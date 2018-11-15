@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication303/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication303/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication303/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication303/MainWindow.xaml))
+* [HomeView.xaml](./CS/WpfApplication303/Views/HomeView.xaml) (VB: [HomeView.xaml](./VB/WpfApplication303/Views/HomeView.xaml))
+* [HomeView.xaml.cs](./CS/WpfApplication303/Views/HomeView.xaml.cs) (VB: [HomeView.xaml](./VB/WpfApplication303/Views/HomeView.xaml))
+* [OptionsView.xaml](./CS/WpfApplication303/Views/OptionsView.xaml) (VB: [OptionsView.xaml](./VB/WpfApplication303/Views/OptionsView.xaml))
+* [OptionsView.xaml.cs](./CS/WpfApplication303/Views/OptionsView.xaml.cs) (VB: [OptionsView.xaml](./VB/WpfApplication303/Views/OptionsView.xaml))
+* [ToolsView.xaml](./CS/WpfApplication303/Views/ToolsView.xaml) (VB: [ToolsView.xaml](./VB/WpfApplication303/Views/ToolsView.xaml))
+* [ToolsView.xaml.cs](./CS/WpfApplication303/Views/ToolsView.xaml.cs) (VB: [ToolsView.xaml](./VB/WpfApplication303/Views/ToolsView.xaml))
+<!-- default file list end -->
 # How to navigate between views in NavigationFrame
 
 
