@@ -14,14 +14,14 @@ Imports System.Windows.Navigation
 Imports System.Windows.Shapes
 
 Namespace WpfApplication303.Views
-    ''' <summary>
-    ''' Interaction logic for MainView.xaml
-    ''' </summary>
-    Partial Public Class HomeView
-        Inherits UserControl
+	''' <summary>
+	''' Interaction logic for MainView.xaml
+	''' </summary>
+	Partial Public Class HomeView
+		Inherits UserControl
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			InitializeComponent()
+		End Sub
+	End Class
 End Namespace
